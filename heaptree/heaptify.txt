@@ -1,0 +1,11 @@
+//heaptify
+void heapconvert(a,k,n){
+i<-k,j<-2*I,k<-a[i];
+while(j<=n){
+if(j<n) if(a[j]<a[j+1] j++;}
+if(a[j]>key){ a[j/2]<-a[j];
+i<-jj;
+j=j*2;}
+else break;
+a[i]=key;
+}
